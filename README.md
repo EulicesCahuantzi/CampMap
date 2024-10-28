@@ -1,15 +1,18 @@
-# CampMap
+# About The Project
 
-CampMap is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account.
+CampMap is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. 
+
 
 ![CampMap](https://github.com/user-attachments/assets/5f75e509-011c-44ea-8377-0d068c1d7679)
 
 
 This project was created using NodeJS, ExpressJS, MongoDB, Bootstrap, Passport.js, EJS, MapBox, and Cloudinary
 
+Deployed on Heroku: https://agile-dawn-96924-c9a3d9b774a5.herokuapp.com/
 
 
-**Features**
+
+<h1>Features</h1>
 <ul>
   <li>Users can create user profile</li>
   <li>Users can create, edit, and remove campgrounds</li>
